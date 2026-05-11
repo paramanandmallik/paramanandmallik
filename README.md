@@ -17,6 +17,23 @@
 - Enterprise Security Solution Design
 - Cloud Security Operations & Governance
 
+### AWS Samples Contributions
+
+Contributor to official AWS sample repositories demonstrating security best practices:
+
+**[Cognito Adaptive Authentication](https://github.com/aws-samples/sample-cognito-adaptive-authentication)**  
+Sample implementation of adaptive authentication patterns with AWS Cognito for risk-based access control.
+
+**[AWS India Compliance MCP](https://github.com/aws-samples/sample-aws-india-compliance-mcp)**  
+Model Context Protocol implementation for AWS India compliance and data localization requirements.
+Compliance automation toolkit for AWS workloads addressing Indian regulatory requirements including data localization.
+
+**[Cognito API Gateway Authorization](https://github.com/aws-samples/sample-cognito-apigateway-authorization)**  
+Sample architecture for securing API Gateway with Cognito authorization patterns.
+
+**[AWS IAM Roles Anywhere Demo](https://github.com/aws-samples/sample-aws-iam-roles-anywhere-demo)**  
+Demonstration of AWS IAM Roles Anywhere for workload identity federation and credential management.
+
 ### Open Source Projects
 
 **[Cognito Session Manager](https://github.com/paramanandmallik/cognito-session-manager)**  
@@ -24,9 +41,6 @@ Advanced session management solution for AWS Cognito with secure user session ha
 
 **[Cedar Authorization Engine](https://github.com/paramanandmallik/cedar-authorize)**  
 Implementation of Cedar policy language for fine-grained authorization and access control in cloud applications.
-
-**[AWS India Compliance](https://github.com/paramanandmallik/aws-india-compliance)**  
-Compliance automation toolkit for AWS workloads addressing Indian regulatory requirements including data localization.
 
 **[AWS Landing Zone Compliance Dashboard](https://github.com/paramanandmallik/aws-landing-zone-compliance-dashboard)**  
 Real-time compliance monitoring dashboard for AWS Control Tower and Landing Zone deployments.
