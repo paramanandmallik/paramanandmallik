@@ -36,6 +36,9 @@ Demonstration of AWS IAM Roles Anywhere for workload identity federation and cre
 
 ### Open Source Projects
 
+**[VIGIL: Access Recertification Engine](https://github.com/aws-samples/sample-identity-recertification-vigil)**  
+A standalone, production-grade access recertification engine for AWS. 
+
 **[Cognito Session Manager](https://github.com/paramanandmallik/cognito-session-manager)**  
 Advanced session management solution for AWS Cognito with secure user session handling and lifecycle management.
 
@@ -47,6 +50,7 @@ Real-time compliance monitoring dashboard for AWS Control Tower and Landing Zone
 
 **[AI-Powered Honeypot](https://github.com/paramanandmallik/ai-powered-honeypot)**  
 Intelligent honeypot system leveraging AI for threat detection and analysis.
+
 
 ### Technical Skills
 
